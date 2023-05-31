@@ -4,6 +4,7 @@
 # Stack Space
 Welcome to StackSpace, a challenging and addictive web game that will test your timing and stacking skills. In this game, your objective is simple: stack blocks by clicking the space bar at the right moment. But be careful, if you fail to stack a block properly, it's game over!
 
+**Discord**- https://dsc.gg/witheredknights/
 ## How to Play
 
 1.  **Launch the Game:** Open the game in your web browser. You can play it on your computer, tablet, or smartphone.
