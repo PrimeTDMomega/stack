@@ -2,9 +2,10 @@
 
 
 # Stack Space
-Welcome to StackSpace, a challenging and addictive web game that will test your timing and stacking skills. In this game, your objective is simple: stack blocks by clicking the space bar at the right moment. But be careful, if you fail to stack a block properly, it's game over!
+Welcome to StackSpace, an addictive and challenging web game that will test your timing and stacking skills. StackSpace is a web-based version of the popular game Stack. In this game, your objective is to stack blocks by clicking the space bar at the right moment. Be careful, as failing to stack a block properly will end the game!
 
-Game Preview - https://codepen.io/PrimeTDMomega/pen/oNarXgN
+## Game Preview 
+While we work out everything, you can find a game preview over at [CodePen](https://codepen.io/PrimeTDMomega/pen/oNarXgN)
 
 **Discord**- https://dsc.gg/witheredknights/
 ## How to Play
@@ -51,3 +52,4 @@ Contributions to StackSpace are welcome! If you have any ideas, suggestions, or 
 ## License
 This game is released under the [GNU GPL-3.0](https://github.com/PrimeTDMomega/stackspace/blob/main/LICENSE) license.
 
+Enjoy playing StackSpace and challenge yourself to stack the highest tower!
