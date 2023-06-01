@@ -38,7 +38,7 @@ To run the game locally, do the following :
 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/stackspace.git
+https://github.com/PrimeTDMomega/stackspace.git
 ```
 
 2. Open the `index.html` file in the browser.
